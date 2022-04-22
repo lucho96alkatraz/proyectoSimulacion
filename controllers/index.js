@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
 
-// middlewares
-app.use(morgan('combined'));
 
 // Aca comenzamos el sv
 
