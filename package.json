@@ -1,0 +1,26 @@
+{
+  "name": "proyectosimulacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik321lol/proyectoSimulacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erik321lol/proyectoSimulacion/issues"
+  },
+  "homepage": "https://github.com/Erik321lol/proyectoSimulacion#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "npm-git-install": "^0.3.0"
+  }
+}
